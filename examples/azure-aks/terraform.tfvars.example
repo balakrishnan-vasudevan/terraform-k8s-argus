@@ -1,0 +1,3 @@
+resource_group_name = "my-resource-group"
+cluster_name        = "my-aks-cluster"
+keyvault_name       = "my-keyvault"
